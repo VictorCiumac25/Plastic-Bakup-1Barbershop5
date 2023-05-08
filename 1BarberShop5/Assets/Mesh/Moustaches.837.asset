@@ -1,0 +1,161 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!43 &4300000
+Mesh:
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Moustaches.837
+  serializedVersion: 9
+  m_SubMeshes:
+  - serializedVersion: 2
+    firstByte: 0
+    indexCount: 12
+    topology: 0
+    baseVertex: 0
+    firstVertex: 0
+    vertexCount: 6
+    localAABB:
+      m_Center: {x: 0, y: -4.656613E-10, z: 1.164153E-09}
+      m_Extent: {x: 0.00605576, y: 0.01115556, z: 0.003813103}
+  m_Shapes:
+    vertices: []
+    shapes: []
+    channels: []
+    fullWeights: []
+  m_BindPose: []
+  m_BoneNameHashes:
+  m_RootBoneNameHash: 0
+  m_MeshCompression: 1
+  m_IsReadable: 1
+  m_KeepVertices: 1
+  m_KeepIndices: 1
+  m_IndexFormat: 0
+  m_IndexBuffer:
+  m_VertexData:
+    serializedVersion: 2
+    m_VertexCount: 0
+    m_Channels:
+    - stream: 0
+      offset: 0
+      format: 0
+      dimension: 0
+    - stream: 0
+      offset: 0
+      format: 0
+      dimension: 0
+    - stream: 0
+      offset: 0
+      format: 0
+      dimension: 0
+    - stream: 0
+      offset: 0
+      format: 0
+      dimension: 0
+    - stream: 0
+      offset: 0
+      format: 0
+      dimension: 0
+    - stream: 0
+      offset: 0
+      format: 0
+      dimension: 0
+    - stream: 0
+      offset: 0
+      format: 0
+      dimension: 0
+    - stream: 0
+      offset: 0
+      format: 0
+      dimension: 0
+    - stream: 0
+      offset: 0
+      format: 0
+      dimension: 0
+    - stream: 0
+      offset: 0
+      format: 0
+      dimension: 0
+    - stream: 0
+      offset: 0
+      format: 0
+      dimension: 0
+    - stream: 0
+      offset: 0
+      format: 0
+      dimension: 0
+    - stream: 0
+      offset: 0
+      format: 0
+      dimension: 0
+    - stream: 0
+      offset: 0
+      format: 0
+      dimension: 0
+    m_DataSize: 0
+    _typelessdata:
+  m_CompressedMesh:
+    m_Vertices:
+      m_NumItems: 18
+      m_Range: 0.02231112
+      m_Start: -0.01115556
+      m_Data: 917f64266fe78c09843a0000901c9be44facb30807bcfa7bc53b96b82faa7c4afcfffff843251e6838eced8760
+      m_BitSize: 20
+    m_UV:
+      m_NumItems: 12
+      m_Range: 0.504503
+      m_Start: 0.215467
+      m_Data: 6bdf251bbbe00000ffff8301aefea91c8cfd143449de9032
+      m_BitSize: 16
+    m_Normals:
+      m_NumItems: 0
+      m_Range: 0
+      m_Start: 0
+      m_Data:
+      m_BitSize: 0
+    m_Tangents:
+      m_NumItems: 0
+      m_Range: 0
+      m_Start: 0
+      m_Data:
+      m_BitSize: 0
+    m_Weights:
+      m_NumItems: 0
+      m_Data:
+      m_BitSize: 0
+    m_NormalSigns:
+      m_NumItems: 0
+      m_Data:
+      m_BitSize: 0
+    m_TangentSigns:
+      m_NumItems: 0
+      m_Data:
+      m_BitSize: 0
+    m_FloatColors:
+      m_NumItems: 0
+      m_Range: 0
+      m_Start: 0
+      m_Data:
+      m_BitSize: 0
+    m_BoneIndices:
+      m_NumItems: 0
+      m_Data:
+      m_BitSize: 0
+    m_Triangles:
+      m_NumItems: 12
+      m_Data: 88a0116301
+      m_BitSize: 3
+    m_UVInfo: 5
+  m_LocalAABB:
+    m_Center: {x: 0, y: -4.656613E-10, z: 1.164153E-09}
+    m_Extent: {x: 0.00605576, y: 0.01115556, z: 0.003813103}
+  m_MeshUsageFlags: 16
+  m_BakedConvexCollisionMesh:
+  m_BakedTriangleCollisionMesh: 4e5853014d4553480f00000000000000060000000600000004000000d900a0bb857bc0baa6af0d3b596fc6bbcfc536bc3dda1a3b6408c53bf4582abc29e5793b556fc63bc184563a37f4703b5c11c43bcdc5363c31e579bb296808bb7e50073c9ebd33bb04050004000300020300010203000000030201005254524502000000a7d1d6bbf6f63ebce6548dbb00000000a3d1d63bf4f63e3ce2548d3b000000000000803f0000803f0000803f0000803f7cd25634b4f7be3471550d34000000000400000001000000010000000400000001000000000000002763b0bb2763b0bb2763b0bba7d1d6bb5e0201bb5e0201bb1b8a32bcf6f63ebce6548dbbe6548dbb14d6d93a14d6d93aaa73d43ba3d1d63ba3d1d63bb26ad53bf4f63e3cf4f63e3c98cbac3a9be47dba42742e3b69dc883be2548d3be2548d3b01000000210000004100000061000000cfc53631596fc6bbcfc536bc31e579bb556fc63bcdc5363c29e5793b0400000018303018
+  m_MeshMetrics[0]: 1
+  m_MeshMetrics[1]: 1
+  m_MeshOptimized: 1
+  m_StreamData:
+    offset: 0
+    size: 0
+    path:
